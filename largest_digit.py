@@ -1,7 +1,4 @@
 """
-File: largest_digit.py
-Name: 游雅媛
-----------------------------------
 This file recursively prints the biggest digit in
 5 different integers, 12345, 281, 6, -111, -9453
 If your implementation is correct, you should see
