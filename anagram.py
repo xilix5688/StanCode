@@ -1,7 +1,4 @@
 """
-File: anagram.py
-Name: 游雅媛
-----------------------------------
 This program recursively finds all the anagram(s)
 for the word input by user and terminates when the
 input string matches the EXIT constant defined
