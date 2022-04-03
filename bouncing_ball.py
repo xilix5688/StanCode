@@ -1,8 +1,5 @@
 """
-File: bouncing_ball
-Name:游雅媛
--------------------------
-TODO:This program simulates a bouncing ball.
+This program simulates a bouncing ball.
 """
 
 from campy.graphics.gobjects import GOval
