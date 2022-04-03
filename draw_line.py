@@ -1,7 +1,4 @@
 """
-File: draw_line
-Name: 游雅媛
--------------------------
 TODO: This program creates lines on an instance of GWindow class.
     There is a circle indicating the user’s first click. A line appears
     at the condition where the circle disappears as the user clicks
