@@ -1,7 +1,4 @@
 """
-File: babynames.py
-Name: 游雅媛
---------------------------
 SC101 Baby Names Project
 Adapted from Nick Parlante's Baby Names assignment by
 Jerry Liao.
