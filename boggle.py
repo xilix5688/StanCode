@@ -1,7 +1,4 @@
 """
-File: boggle.py
-Name: 游雅媛
-----------------------------------------
 TODO: The program asks the user to input 4*4 letters, and finds words that match to the words in the dictionary.
 """
 
