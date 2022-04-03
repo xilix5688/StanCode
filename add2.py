@@ -1,8 +1,4 @@
 """
-File: add2.py
-Name: 游雅媛
-------------------------
-TODO:
 The given two non-empty linked lists representing two non-negative integers and the digits are stored
 in reverse order.Add the two numbers and return it as a linked list.
 """
